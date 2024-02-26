@@ -1,0 +1,10 @@
+/* Chatbot Container */
+#chat-container {
+  display: none; /* Hide the chat container by default */
+  /* Add other styles for chat container as needed */
+}
+
+/* Chatbot Container - Visible */
+#chat-container.visible {
+  display: block; /* Show the chat container when visible class is applied */
+}

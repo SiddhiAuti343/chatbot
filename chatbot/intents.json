@@ -1,0 +1,65 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hello", "Hi", "Hey", "Howdy", "What's up"],
+        "responses": ["Hi there! How can I assist you in your entrepreneurial journey?", "Hello! Ready to talk business?", "Greetings, entrepreneur!"]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Goodbye", "See you", "Bye", "Catch you later", "Farewell"],
+        "responses": ["Goodbye! Best of luck with your ventures!", "Farewell, entrepreneur! Reach out anytime.", "See you later! Keep hustling."]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "Appreciate it", "Thanks a lot", "Thanks so much"],
+        "responses": ["You're welcome! If you have more questions, feel free to ask.", "No problem! Wishing you success in your endeavors.", "Glad I could help!"]
+      },
+      {
+        "tag": "entrepreneurship_definition",
+        "patterns": ["What is entrepreneurship?", "Define entrepreneurship", "Entrepreneurship meaning", "Can you explain entrepreneurship", "Tell me about entrepreneurship"],
+        "responses": ["Entrepreneurship is the process of starting and operating a business, taking on financial risks in the hope of profit. It involves innovation, initiative, and the ability to turn ideas into successful ventures."]
+      },
+      {
+        "tag": "starting_a_business",
+        "patterns": ["How to start a business", "Steps to start entrepreneurship", "Starting a startup", "Starting a company", "Begin a business"],
+        "responses": ["Starting a business? Begin by researching your market, identifying your target audience, creating a unique value proposition, and developing a solid business plan."]
+      },
+      {
+        "tag": "business_ideas",
+        "patterns": ["Entrepreneurial ideas", "Startup ideas", "Business ideas", "I need business ideas", "Looking for startup ideas"],
+        "responses": ["Looking for business ideas? Consider your passions, skills, and market needs. I can help brainstorm ideas tailored to your interests."]
+      },
+      {
+        "tag": "financial_advice",
+        "patterns": ["Financial advice for startups", "Budgeting for entrepreneurship", "Managing startup finances", "Startup funding", "Financial planning for startups"],
+        "responses": ["Financial management is crucial for startups. Create a detailed budget, explore funding options, and prioritize investments wisely."]
+      },
+      {
+        "tag": "business_tools",
+        "patterns": ["Essential tools for entrepreneurs", "Startup toolkit", "Business software", "Recommended business tools", "Tools for startups"],
+        "responses": ["Explore tools like project management software, accounting software, and communication tools to streamline your business operations."]
+      },
+      {
+        "tag": "growth_strategies",
+        "patterns": ["Strategies for business growth", "Scaling a startup", "Business expansion", "Increasing business revenue", "Growth hacking techniques"],
+        "responses": ["To grow your business, focus on customer acquisition, explore new markets, and continuously innovate. Scaling requires strategic planning and a solid execution plan."]
+      },
+      {
+        "tag": "success_advice",
+        "patterns": ["Keys to entrepreneurial success", "Tips for business success", "Entrepreneurial mindset", "How to succeed in business", "Secrets of successful entrepreneurs"],
+        "responses": ["Success in entrepreneurship requires perseverance, continuous learning, adaptability, and a customer-centric mindset. Stay focused on your goals!"]
+      },
+      {
+        "tag": "legal_requirements",
+        "patterns": ["Legal requirements for startups", "Business registration", "Compliance", "Startup legal checklist", "Regulatory compliance for businesses"],
+        "responses": ["Ensuring legal compliance is crucial. Consider registering your business, obtaining necessary licenses, and staying informed about local regulations."]
+      },
+      {
+        "tag": "unknown",
+        "patterns": [""],
+        "responses": ["I'm sorry, I don't understand. Can you provide more details about your question?"]
+      }
+    ]
+  }
+  
